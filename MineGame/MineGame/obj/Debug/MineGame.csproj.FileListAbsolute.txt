@@ -1,0 +1,10 @@
+C:\c#Projects\MineGame\MineGame\bin\Debug\MineGame.exe.config
+C:\c#Projects\MineGame\MineGame\bin\Debug\MineGame.exe
+C:\c#Projects\MineGame\MineGame\bin\Debug\MineGame.pdb
+C:\c#Projects\MineGame\MineGame\obj\Debug\MineGame.csproj.AssemblyReference.cache
+C:\c#Projects\MineGame\MineGame\obj\Debug\MineGame.Form1.resources
+C:\c#Projects\MineGame\MineGame\obj\Debug\MineGame.Properties.Resources.resources
+C:\c#Projects\MineGame\MineGame\obj\Debug\MineGame.csproj.GenerateResource.cache
+C:\c#Projects\MineGame\MineGame\obj\Debug\MineGame.csproj.CoreCompileInputs.cache
+C:\c#Projects\MineGame\MineGame\obj\Debug\MineGame.exe
+C:\c#Projects\MineGame\MineGame\obj\Debug\MineGame.pdb
